@@ -1,0 +1,6 @@
+name: astrbot_plugin_self_iterative_core
+display_name: 自迭代核心 (增强安全维护版)
+version: 1.2.1
+description: ai自动升级完善自身功能的核心模块，已集成经验记忆网络、AST语法预检与事务原子回滚护栏
+author: DITF16 (Upstream) & 日海 / 橙子汐 (Enhanced)
+repo: https://github.com/wuyaomin248-stack/astrbot_plugin_self_iterative_core
